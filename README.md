@@ -17,4 +17,4 @@ cd game && python3 -m http.server 8080
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=0rkx5qm4&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=0rkx5qm4&utm_source=github&utm_medium=readme&utm_campaign=best-game-01)</sub>
